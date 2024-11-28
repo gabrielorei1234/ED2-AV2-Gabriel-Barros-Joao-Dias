@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ED2-AV2-Gabriel-Barros-Joao-Dias/1.0.0": {
+        "runtime": {
+          "ED2-AV2-Gabriel-Barros-Joao-Dias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ED2-AV2-Gabriel-Barros-Joao-Dias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

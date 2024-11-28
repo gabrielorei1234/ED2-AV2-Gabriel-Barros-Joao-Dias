@@ -1,0 +1,15 @@
+C:\code\faculdade\ED2\AV2\bin\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.exe
+C:\code\faculdade\ED2\AV2\bin\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.deps.json
+C:\code\faculdade\ED2\AV2\bin\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.runtimeconfig.json
+C:\code\faculdade\ED2\AV2\bin\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.dll
+C:\code\faculdade\ED2\AV2\bin\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.pdb
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.AssemblyInfoInputs.cache
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.AssemblyInfo.cs
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.csproj.CoreCompileInputs.cache
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.sourcelink.json
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.dll
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\refint\ED2-AV2-Gabriel-Barros-Joao-Dias.dll
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.pdb
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ED2-AV2-Gabriel-Barros-Joao-Dias.genruntimeconfig.cache
+C:\code\faculdade\ED2\AV2\obj\Debug\net8.0\ref\ED2-AV2-Gabriel-Barros-Joao-Dias.dll
