@@ -2,6 +2,7 @@
 {
     static void Main()
     {
+        var busca = new BuscaDFS();
         while (true)
         {
             Console.Clear();
@@ -24,6 +25,7 @@
                     break;
                 case "3":
                     Console.WriteLine("Você selecionou a Opção 3");
+                    busca.IniciarBusca();
                     break;
                 case "4":
                     Console.WriteLine("Saindo...");

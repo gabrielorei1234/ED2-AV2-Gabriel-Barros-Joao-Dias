@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ED2-AV2-Gabriel-Barros-Joao-Dias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+131dd8dd41edbf0995ffc2176e96791e52ec5410")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a081eca3cbd4d12b17ebe7a00ec38ae7252300a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ED2-AV2-Gabriel-Barros-Joao-Dias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ED2-AV2-Gabriel-Barros-Joao-Dias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

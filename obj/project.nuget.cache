@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/gCJXSz6Abs=",
+  "dgSpecHash": "f+Rv9+4WR7I=",
   "success": true,
-  "projectFilePath": "C:\\code\\faculdade\\ED2\\AV2\\ED2-AV2-Gabriel-Barros-Joao-Dias.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Projetos\\ED2-AV2-Gabriel-Barros-Joao-Dias\\ED2-AV2-Gabriel-Barros-Joao-Dias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.8\\microsoft.netcore.app.host.win-x64.8.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
