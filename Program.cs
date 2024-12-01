@@ -1,18 +1,18 @@
 ﻿using ED2_AV2_Gabriel_Barros_Joao_Dias.PrimeiraQuestao;
 using ED2_AV2_Gabriel_Barros_Joao_Dias.SegundaQuestao;
+using ED2_AV2_Gabriel_Barros_Joao_Dias.TerceiraQuestao;
 
 class Program
 {
     static void Main()
     {
-        var busca = new BuscaDFS();
         while (true)
         {
             Console.Clear();
             Console.WriteLine("Menu:");
             Console.WriteLine("1. Questão 1 - Coloração de Grafos");
             Console.WriteLine("2. Questão 2 - Árvore Geradora de Custo Mínimo");
-            Console.WriteLine("3. Questão 3");
+            Console.WriteLine("3. Questão 3 - Algoritmo de Busca em Profundidade");
             Console.WriteLine("4. Sair");
             Console.Write("Selecione uma opção (1-4): ");
 
@@ -29,8 +29,8 @@ class Program
                     SegundaQuestao.Executar();
                     break;
                 case "3":
-                    Console.WriteLine("Você selecionou a Opção 3");
-                    busca.IniciarBusca();
+                    Console.WriteLine("Você selecionou a Opção 3 - Algoritmo de Busca em Profundidade");
+                    TerceiraQuestao.Executar();
                     break;
                 case "4":
                     Console.WriteLine("Saindo...");
