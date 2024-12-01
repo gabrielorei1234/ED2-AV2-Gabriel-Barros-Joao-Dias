@@ -58,10 +58,22 @@ class Grafo
             }
         }
 
+        int numCoresUsadas = 0;
+        for (int i = 0; i < numVertices; i++)
+        {
+            if (cores[i] > numCoresUsadas)
+            {
+                numCoresUsadas = cores[i];
+            }
+        }
+        
+        Console.WriteLine($"\nPara colorir o grafo inserido são necessárias pelo menos {numCoresUsadas} cores para colorir o grafo.");
+        Console.WriteLine("A disposição das cores é a seguinte.");
         Console.WriteLine("Cores dos vértices:");
         for (int i = 0; i < numVertices; i++)
         {
             Console.WriteLine($"Vértice {i}: Cor {cores[i]}");
         }
+
     }
 }
